@@ -1,12 +1,8 @@
-# Host a Website (Onion Site) for Free from Linux Terminal
+# Host a Free Onion Site Using Linux Terminal
 
-Follow these steps to host your website (Onion site) for free using the Linux terminal:
+Follow these steps to host an Onion site for free from the Linux terminal:
 
----
-
-### 1. Install Tor
-
-First, you need to install the Tor package:
-
+### Step 1: Install Tor
+Run the following command to install Tor:
 ```bash
-sudo apt-get install tor   # Downloads the Tor browser
+sudo apt-get install tor
